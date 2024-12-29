@@ -1,7 +1,7 @@
 <?php
 // Assign values to the numbers
-$num1 = 250; // You can change this value
-$num2 = 50;  // You can change this value
+$num1 = 25000; // You can change this value
+$num2 = 5000;  // You can change this value
 
 // Function to perform all arithmetic operations
 function arithmeticOperations($num1, $num2) {
